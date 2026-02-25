@@ -1,4 +1,4 @@
-# multi-llm-Prediction-prompt
+# Multi-llm-Prediction-Prompt
 
 A curated prompt template for aggregating predictions from multiple large language models (e.g., GPT, Claude, DeepSeek) with web search enabled to estimate football match outcomes.
 
