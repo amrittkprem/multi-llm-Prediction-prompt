@@ -17,13 +17,6 @@ This project focuses on prompt engineering and LLM ensembling, not on building a
 
 ---
 
-## ❌ What This Is Not
-
-- Not a machine learning model trained on historical match data  
-- Not a statistical sports analytics system  
-- Not a reliable or calibrated betting tool  
-- Not guaranteed to be accurate  
-
 This project does not replace proper sports modeling techniques (e.g., ELO, Poisson models, xG-based regressions). It is an experiment in LLM-driven aggregation, not predictive sports science.
 
 ---
