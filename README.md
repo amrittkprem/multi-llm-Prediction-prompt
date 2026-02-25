@@ -80,7 +80,7 @@ Feed the combined outputs into another LLM using a summarization or aggregation 
 
 ## 📊 Observed Behavior
 
-- Match outcome (win/draw/loss) predictions may achieve moderate accuracy in some cases, as the models often converge toward public consensus and betting market sentiment.  
+- Match outcome (win/draw/loss) predictions may achieve high accuracy in some cases, as the models often converge toward public consensus and betting market sentiment.  
 - Exact score predictions tend to be highly unreliable, which is expected given the inherent difficulty of scoreline forecasting and the lack of statistical calibration.
 
 ---
@@ -104,14 +104,6 @@ Feed the combined outputs into another LLM using a summarization or aggregation 
 
 ---
 
-## 🛠️ Future Ideas
-
-- Add a structured template so each model outputs the same fields  
-- Introduce simple voting or weighting strategies for aggregation  
-- Compare LLM ensemble outputs against bookmaker odds or baseline statistical models  
-- Track accuracy across a larger set of matches over time  
-
----
 
 ## 👤 Author
 
